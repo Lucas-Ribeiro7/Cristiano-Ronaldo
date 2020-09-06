@@ -2,7 +2,7 @@ body{
 width:700px;
 margin: 15px auto;
 font-family: Arial, "MS Trebuchet", sans-serif;
-background-color: rgb(175, 219, 219);
+background-color: rgb(200, 212, 212);
 }
 
 h1#visual{
@@ -35,3 +35,4 @@ padding: 0;
 margin: 0 20px 0 0;
 display: inline;
 }  
+
